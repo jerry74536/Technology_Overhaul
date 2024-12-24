@@ -1,8 +1,8 @@
 {
-    "name": "CHANGEME",
-    "author": "CHANGEME",
+    "name": "Technology Overhaul",
+    "author": "jerry74536",
     "version": "1.0.0",
     "description": "This is a template for a mod",
-    "RepoUrl": "https://github.com/author/name",
+    "RepoUrl": "https://github.com/jerry74536/Technology_Overhaul.git",
     "iconPath": "icon.png"
 }
