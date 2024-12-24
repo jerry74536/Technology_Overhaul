@@ -1,6 +1,6 @@
 ﻿using NeoModLoader.api;
 
-namespace CHANGEME
+namespace Technology_Overhaul
 {
     public class ModClass : BasicMod<ModClass>
     {
